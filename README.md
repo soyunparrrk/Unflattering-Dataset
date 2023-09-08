@@ -16,12 +16,12 @@ In this workshop, the students learn the process of image classification for tra
   
 [Breakdown of LoRA](https://softwarekeep.com/help-center/how-to-use-stable-diffusion-lora-models) and [A111 SD Notebook](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-![Brime Cropping](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/838d8abc-08c1-4a17-a2fc-660d6e6110d6)
-
 * Training Images can be JPG or PNG.
 * Mininum size of training images 512x512. The larger the images the better.
 * [Use this site to batch crop & rename images](https://www.birme.net/?image_format=jpeg&quality_jpeg=100&rename=EnterNameHere-XXX)
 * Settings for Birme: JPG (100%), 512 x 512, Save as Zip)
+
+![Brime Cropping](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/838d8abc-08c1-4a17-a2fc-660d6e6110d6)
   
 You can then use this Dataset cleaner colab notebook [here](https://colab.research.google.com/drive/1pxk4SovIhZl4HaLmBJo50ZjCKOuofMwb#scrollTo=WBFik7accyDz). This will be used to prepare the images as a dataset for LoRA. It will also create captions for each image, which you can alter manually.
 
