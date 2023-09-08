@@ -3,9 +3,9 @@ In this workshop, the students learn the process of image classification for tra
 
 ## Processes behind Dataset Curation & Creation
 
-🡥 Preprocess Data: Crop, Resize, Label.<br/>
-🡥 Training<br/>
-🡥 Inference<br/>
+**🡥 Preprocess** Data: Crop, Resize, Label.<br/>
+**🡥 Training**: How to train the model, what settings are needed<br/>
+**🡥 Inference**: How to use your trained model with text-to-image models<br/>
 
 ## Preprocess: What will we need?
 
