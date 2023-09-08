@@ -27,9 +27,11 @@ You can then use this Dataset cleaner colab notebook [here](https://colab.resear
 
 * Project Name -> Whatever you want, and keep a note of this.
 Then you can start section (1) Setup. Once (1) is finished, go to section (4), and change the method to 'Photo Caption' - You can black list some words if you want to.
+
 ![Initial Captionin](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/b28f7470-1460-46d6-8cbc-96378fd43818)
 
 (4) will generate a caption & text file for every image, which stores the caption. You can alter this manually, by going into the text file, and changing the caption. Once this has been setup, you can close the colab notebook. Next, you will need to train the model using another colab notebook.
+
 ![File Structure for Images   Captions](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/a25ea580-977d-4fc2-ad0f-d482b1968c85)
 
 ## (2) Training
