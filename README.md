@@ -53,5 +53,7 @@ _Maybe you have a preffered SDWebUI that you have used in other workshops, or yo
 
 Start SDWebUI, and click on the additional networks tab, and select the lora model you have trained.
 
+![image](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/667b45ed-7bfd-447e-b814-8068ddff8ec5)
+
 You can use this keyword anywhere in the prompt.
 
