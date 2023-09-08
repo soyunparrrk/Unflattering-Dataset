@@ -36,7 +36,7 @@ Then you can start section (1) Setup. Once (1) is finished, go to section (4), a
 
 ## (2) Training
 
-* [Lora Trainer](https://colab.research.google.com/drive/1-D0l9UdkmUx25EonusH0ZGtzqqPWgo_c#scrollTo=OglZzI_ujZq-)
+Open this notebook: [Lora Trainer](https://colab.research.google.com/drive/1-D0l9UdkmUx25EonusH0ZGtzqqPWgo_c#scrollTo=OglZzI_ujZq-)
   
 In setup or section (1) you will need to refer back to the project name you had given in your last colab, and add it to the project name here. The training model we will use is 'AnyLora', if it is not selected already, you can do so by accessing the dropdown menu.
 
