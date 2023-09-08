@@ -57,14 +57,14 @@ Start SDWebUI, and click on the LoRA tab to add your model.
 
 You can use this keyword anywhere in the prompt.
 
-Some examples ✨
-![swimming](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/2f28b8a3-b327-4c65-9ca8-5c9255de0dae)
+Some examples ✨<br/>
+![swimming](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/2f28b8a3-b327-4c65-9ca8-5c9255de0dae)<br/>
 
-![00044-3648499070](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/7e37faac-4d6a-4e18-bfd9-b74f077c4eda)
+![00044-3648499070](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/7e37faac-4d6a-4e18-bfd9-b74f077c4eda)<br/>
 
-![00042-396555378](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/6dbdf04b-6360-4224-8331-680c0a6b658b)
+![00042-396555378](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/6dbdf04b-6360-4224-8331-680c0a6b658b)<br/>
 
-![00034-1378921413](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/210e7b44-af93-44d7-bc0c-72528282bb50)
+![00034-1378921413](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/210e7b44-af93-44d7-bc0c-72528282bb50)<br/>
 
 
 
