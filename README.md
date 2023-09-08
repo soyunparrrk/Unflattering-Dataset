@@ -51,7 +51,7 @@ After downloading the model, you will need to add it to the A111 model/lora dire
 
 _Maybe you have a preffered SDWebUI that you have used in other workshops, or you can use [this](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PjzwxTkPSPHf)_
 
-Start SDWebUI, and click on the additional networks tab, and select the lora model you have trained.
+Start SDWebUI, and click on the LoRA tab to add your model.
 
 ![image](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/667b45ed-7bfd-447e-b814-8068ddff8ec5)
 
