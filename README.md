@@ -63,7 +63,7 @@ Once the training has finished, you can download the fine-tuned models from the 
 ### (3-1) Add your model to the right directory on your Google Drive
 After downloading the model, you will need to add it to the A111 model/lora directory. Add your model file (.safetensors) to your Google Drive in this path below.
 
-** /content/gdrive/MyDrive/sd/stable-diffusion-web-ui/models/Lora **
+**/content/gdrive/MyDrive/sd/stable-diffusion-web-ui/models/Lora**
 
 ### (3-2) Create images in Stable Diffusion with your own model
 
@@ -76,13 +76,11 @@ You can use this keyword anywhere in the prompt.
 
 Some examples ✨
 
-![swimming](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/2f28b8a3-b327-4c65-9ca8-5c9255de0dae)
+![swimming](https://github.com/soyunparrrk/Unflattering-Dataset/blob/e5f568608a9589fe5b868b245388b092a6ed971e/media/swimming.png)
 
-![00044-3648499070](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/7e37faac-4d6a-4e18-bfd9-b74f077c4eda)
+![00042-396555378](https://github.com/soyunparrrk/Unflattering-Dataset/blob/e5f568608a9589fe5b868b245388b092a6ed971e/media/00044-3648499070.png)
 
-![00042-396555378](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/6dbdf04b-6360-4224-8331-680c0a6b658b)
-
-![00034-1378921413](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/210e7b44-af93-44d7-bc0c-72528282bb50)
+![00034-1378921413](https://github.com/soyunparrrk/Unflattering-Dataset/blob/e5f568608a9589fe5b868b245388b092a6ed971e/media/00034-1378921413.png)
 
 
 
