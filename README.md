@@ -21,7 +21,7 @@ In this workshop, the students learn the process of image classification for tra
 * [Use this site to batch crop & rename images](https://www.birme.net/?image_format=jpeg&quality_jpeg=100&rename=EnterNameHere-XXX)
 * Settings for Birme: JPG (100%), 512 x 512, Save as Zip)
 
-<br/>![Brime Cropping](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/838d8abc-08c1-4a17-a2fc-660d6e6110d6)
+<br/>![Brime Cropping](https://github.com/soyunparrrk/Unflattering-Dataset/blob/c1f991bc5ec2e9b149a15d4edbf2cbe7addc20c0/media/Brime%20Cropping.png)
 _Michelin Man 🛞_
   
 You can then use this Dataset cleaner colab notebook [here](https://colab.research.google.com/drive/1pxk4SovIhZl4HaLmBJo50ZjCKOuofMwb#scrollTo=WBFik7accyDz). This will be used to prepare the images as a dataset for LoRA. It will also create captions for each image, which you can alter manually.
