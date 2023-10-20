@@ -67,7 +67,7 @@ After downloading the model, you will need to add it to the A111 model/lora dire
 
 ### (3-2) Create images in Stable Diffusion with your own model
 
-Open and copy this notebook to your drive: [Fast Stable Diffusion](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PjzwxTkPSPHf)
+Open and copy this notebook to your drive: [Fast Stable Diffusion](https://colab.research.google.com/drive/17ZFAL5FEvCik9rxDRuadnylVHa74sZB9?usp=sharing)
 
 After excecuting all cells, start SDWebUI by clicking the link like this at the 'Start Stable-Diffusion' section: (https://xxx.gradio.live), and click on the LoRA tab.
 ![image](https://github.com/Caileannn/Unflattering-Dataset/assets/25906839/667b45ed-7bfd-447e-b814-8068ddff8ec5)
