@@ -34,7 +34,7 @@ Open a text editor of your preference and label (classify) each image. You can d
 
 ### (1-4) Try automatic data labeling and compare it to yours
 
-Use this colab notebook [Dataset cleaner](https://colab.research.google.com/drive/1pxk4SovIhZl4HaLmBJo50ZjCKOuofMwb#scrollTo=WBFik7accyDz). This will be used to prepare the images as a dataset for LoRA. It will also create captions for each image, which you can alter manually.
+Use this colab notebook [Dataset cleaner](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb). This will be used to prepare the images as a dataset for LoRA. It will also create captions for each image, which you can alter manually.
 
 * Project Name -> Whatever you want, and keep a note of this.
 Then you can start section (1) Setup. Once (1) is finished, go to section (4), and change the method to 'Photo Caption' - You can black list some words if you want to.
