@@ -41,7 +41,13 @@ Then you can start section (1) Setup. Once (1) is finished, go to section (4), a
 
 ![Initial Captioning](https://github.com/soyunparrrk/Unflattering-Dataset/blob/69a351375a049c8436da981b51ade9a54429ce34/media/Initial%20Captionin.png)
 
-* (4) will generate a caption & text file for every image, which stores the caption. You can alter this manually, by going into the text file, and changing the caption. Once this has been setup, you can close the colab notebook. Next, you will need to train the model using another colab notebook.
+* (4) will generate a caption & text file for every image, which stores the caption. You can alter this manually, by going into the text file, and changing the caption.
+
+### (1-5) Curate your tags
+
+* In section (5),  Change 'global_activation_tag' to something unique to your dataset. You can also write things that you want to normalise into the 'remove_tags' field. 
+
+Once this has been setup, you can close the colab notebook. Next, you will need to train the model using another colab notebook.
 
 ![File Structure for Images   Captions](https://github.com/soyunparrrk/Unflattering-Dataset/blob/69a351375a049c8436da981b51ade9a54429ce34/media/File%20Structure%20for%20Images%20%26%20Captions.png)
 
