@@ -53,7 +53,7 @@ Once this has been setup, you can close the colab notebook. Next, you will need 
 
 ## (2) Training
 
-Open and copy this notebook to your drive: [Lora Trainer](https://colab.research.google.com/drive/1-D0l9UdkmUx25EonusH0ZGtzqqPWgo_c#scrollTo=OglZzI_ujZq-)
+Open and copy this notebook to your drive: [Lora Trainer](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb)
   
 In setup or section (1) you will need to refer back to the project name you had given in your last colab, and add it to the project name here. The training model we will use is 'AnyLora', if it is not selected already, you can do so by accessing the dropdown menu.
 
